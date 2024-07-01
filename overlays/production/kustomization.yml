@@ -5,5 +5,5 @@ resources:
   - configmap.yml
 images:
   - name: gcr.io/heptio-images/ks-guestbook-demo
-    newTag: "0.1"
+    newTag: "0.2"
 namePrefix: prod-
